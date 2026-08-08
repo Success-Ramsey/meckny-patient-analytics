@@ -1,0 +1,104 @@
+patient_id,full_name,gender,age,diagnosis,blood_pressure,weight_kg,admission_date
+51,Robert Wilson,FEMALE,40,CAD,141/101,106.9 kg,2021-04-14
+44,,Female,8,Type II Diabetes,173-62,105.9kg,20-07-2022
+13,Emily Garcia,male,60,ASTHMA,179/82,91.6 kg,2019-03-29
+36,CHRIS GONZALEZ,MALE,999,osteoarthritis,144/85,81.7,2022-07-02
+56,,Female,65,Hypertension,,51.8,08-26-24
+21,John Hernandez,F,6,Migraine,118-72,98.4,12/15/2024
+40,Maria Davis,FEMALE,51,Influenza,134/109,64.6,26-06-2021
+67,"Brown, John",M,,hypertension,103/107,,01/28/2023
+84,James Brown,,92,asthma,138/90,92.1,13-05-2021
+87,  Susan Williams  ,female,24,Obesity,142/68,92.8,22-11-2021
+3,Patricia Jackson,MALE,6,OBESITY,103/60,95.5,09-28-20
+19,"Brown, Anna",Male,23,Influenza,174/82,76.3kg,2020-08-02
+73,Susan Jones,M,45,Coronary Artery Disease,108/70,53.6,04/23/2023
+52,Sarah Williams,FEMALE,,osteoarthritis,106/96,76.5,08/28/2024
+18,"Lopez, David",MALE,13,anxiety disorder,115/105,88.8,10-21-22
+31,Thomas Rodriguez,female,63,Asthma,146/79,80.4,21-03-2023
+99,John Miller,f,999,CAD,N/A,65.3 kg,2020-08-09
+30,ELIZABETH MILLER,,-59,Osteo Arthritis,121 / 64,57.0,16-11-2024
+39,Robert Hernandez,MALE,71,OBESITY,,100.0,29-11-2019
+72,"Anderson, Anna",M,67,Anxiety,127/97,73.4kg,"September 01, 2021"
+96,  Sarah Johnson  ,f,34,INFLUENZA,170/98,66.6,05-06-2019
+64,LINDA WILLIAMS,MALE,1,OBESITY,,129.7 kg,12/06/2021
+23,Thomas Martinez,M,91,asthma,111/60,,11-12-21
+70,  John Taylor  ,Male,13,asthma,160/76,58.5,05/29/2021
+60,  Mike Anderson  ,M,33,Hypothyroid,123/69,98.2kg,"September 07, 2023"
+48,ANNA JONES,M,33,osteoarthritis,N/A,85.4 kg,08-04-21
+81,Charles Smith,Male,33,hypothyroidism,152-82,62.7,"July 07, 2023"
+5,"Williams, Jennifer",f,58,OBESITY,140/70,87.0,12-06-2021
+6,"Thomas, William",FEMALE,18,OA,143/74,60.0 kg,N/A
+82,Susan Williams,female,28,Anxiety Disorder,124-68,92.4,06-06-24
+42,James Brown,M,84,Anxiety Disorder,142/81,54.3,2031-01-01
+77,Charles Anderson,,48,OBESITY,118-85,124.3,2022-12-27
+89,  Mike Thomas  ,Male,2,Type 2 Diabetes,N/A,93.4kg,01/21/2024
+3,  Jane Martin  ,F,59,migraine,168-79,119.4,13-01-2024
+32,Anna Martin,,46,OA,133/97,76.1 kg,04/29/2024
+68,"Gonzalez, Mike",male,5,T2DM,N/A,73.6kg,2021-12-05
+12,Susan Smith,Female,16,Migraines,176/81,,06-10-23
+50,Susan Miller,FEMALE,24,,156/64,112.6,2031-01-01
+79,,FEMALE,71,Anxiety,143-103,81.2kg,N/A
+1,David Gonzalez,m,-75,,103/75,,05/22/2020
+46,,m,21,Type 2 Diabetes,115/87,129.0,2031-01-01
+9,Susan Lopez,MALE,60,Influenza,128/90,58.7,04/05/2019
+45,"Williams, Susan",Male,60,obesity,111/91,113.2 kg,05/27/2022
+80,  Robert Lopez  ,F,55,T2DM,144 / 63,,08/22/2022
+65,ROBERT JOHNSON,f,38,Migraine,,62.2,14-10-2020
+100,Jane Garcia,Male,48,asthma,144/61,83.4,23-10-2022
+2,Jane Jackson,,18,ASTHMA,118 / 66,99.3,2023-03-06
+76,Emily Rodriguez,,53,ASTHMA,,,10/20/2020
+10,David Moore,Female,34,asthma,159/81,97.1,03/10/2021
+55,Elizabeth Martinez,f,50,ANXIETY DISORDER,,109.9kg,02/21/2024
+81,Charles Smith,Male,33,hypothyroidism,152-82,62.7,"July 07, 2023"
+85,Elizabeth Johnson,F,52,Flu,110/81,105.6 kg,"June 06, 2020"
+11,Anna Miller,Female,36,MIGRAINE,139/83,,04/09/2024
+27,Charles Smith,,18,Diabetes Type 2,175/61,102.9,N/A
+34,  Robert Wilson  ,M,999,Osteo Arthritis,,62.0,16-08-2021
+25,"Garcia, Maria",Female,65,Migraine,113/85,78.5,12-05-2022
+7,EMILY RODRIGUEZ,MALE,79,ASTHMA,178/103,83.8,05-27-23
+75,John Davis,f,83,migraine,153/87,-5,02-05-20
+94,Michael Miller,MALE,12,Coronary Artery Disease,128/93,-5,04/06/2021
+17,Elizabeth Thomas,m,34,Migraines,N/A,,10/27/2019
+69,Jane Lopez,F,4,High Blood Pressure,,,"January 08, 2020"
+97,"Smith, Mike",FEMALE,9,Obesity,,52.6kg,09-05-24
+78,"Smith, Jane",F,14,OBESITY,145/89,56.0kg,10/10/2019
+26,Thomas Jones,F,999,,160/100,104.6,09/01/2024
+33,  Linda Jones  ,FEMALE,25,Obesity,165/95,51.8kg,08-10-23
+16,Thomas Moore,m,25,Type II Diabetes,,-5,09/28/2024
+37,Jennifer Jackson,MALE,68,anxiety disorder,114-93,54.3,2024-02-17
+83,  Anna Thomas  ,male,60,Anxiety,148 / 103,,2019-04-27
+28,"Moore, Thomas",MALE,10,migraine,153/91,51.5,2022-03-22
+98,Maria Davis,,33,Htn,101/76,105.3,2024-06-03
+66,,FEMALE,,High Blood Pressure,134-110,97.9kg,"November 15, 2019"
+86,Jane Gonzalez,f,52,Hypertension,172/109,112.1,"March 21, 2023"
+15,Michael Jackson,f,20,High Blood Pressure,114/71,97.6 kg,
+62,Anna Jones,male,35,Influenza,139/98,82.7,10-21-24
+59,Thomas Johnson,FEMALE,75,T2DM,145/107,67.5,"February 20, 2023"
+41,Susan Thomas,MALE,-86,hypothyroidism,,49.4 kg,09/04/2019
+14,Sarah Taylor,MALE,25,Migraine,125-108,67.0,
+63,Jane Johnson,female,8,Type 2 Diabetes,120/69,89.1,09-07-24
+34,"Thomas, Linda",male,44,Flu,156-95,55.2,2020-10-24
+22,EMILY RODRIGUEZ,,3,osteoarthritis,152-66,100.3,"July 20, 2024"
+62,Anna Jones,male,35,Influenza,139/98,82.7,10-21-24
+9,Anna Jackson,female,68,Type 2 Diabetes,169/72,64.0,2019-01-05
+74,LINDA WILSON,Male,50,High Blood Pressure,123/92,70.2,04/01/2019
+90,DAVID WILLIAMS,FEMALE,33,,,51.8,28-06-2022
+4,  Thomas Wilson  ,female,,Type II Diabetes,135/81,95.5,2024-02-12
+91,"Martin, Jennifer",f,61,Asthma,175/86,111.1,29-01-2024
+32,James Hernandez,male,95,Coronary Artery Disease,170/64,81.4,2022-02-01
+53,Thomas Garcia,MALE,26,High Blood Pressure,176/84,,10/18/2020
+54,  Chris Thomas  ,Male,67,Coronary Artery Disease,119/62,116.6,06-06-2019
+35,  Jennifer Moore  ,FEMALE,71,type 2 diabetes,,93.4kg,03-24-19
+20,"Gonzalez, Robert",F,8,asthma,97-100,,2021-06-29
+57,John Williams,male,63,ASTHMA,103/82,66.4,"August 19, 2022"
+15,Michael Jackson,f,20,High Blood Pressure,114/71,97.6 kg,
+71,Mike Thomas,M,52,Diabetes Type 2,,121.6kg,08/14/2024
+58,David Rodriguez,female,79,,115-100,102.8,03/24/2023
+92,"Rodriguez, Linda",f,2,Hypothyroid,126/84,77.0,08-17-21
+24,William Taylor,f,,Asthma,,91.5,2021-09-28
+8,  William Johnson  ,MALE,44,Type 2 Diabetes,141/99,,03/22/2023
+95,Linda Lopez,FEMALE,20,Anxiety,154 / 110,,05-05-2019
+29,"Martin, Mike",F,,High Blood Pressure,122/103,105.3,03-15-22
+43,Sarah Moore,MALE,40,,142/94,61.4,N/A
+19,MARIA SMITH,FEMALE,50,Hypothyroid,,,13-01-2021
+47,  Jennifer Anderson  ,MALE,87,Osteoarthritis,130-96,66.6kg,12/02/2021

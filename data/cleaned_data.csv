@@ -1,1 +1,78 @@
-
+﻿full_name,gender,Male,Female,age,Age_Range,diagnosis,blood_pressure,BP_Category,systolic,diastolic,Risk_Tier,weight_kg,weight,admission_date,month_year,admission_year,AVG_MAIN
+Robert Wilson,M,1,0,NULL,NULL,Coronary Artery Disease,141/101,High,141,101,High,106.9kg,106.9,2021-04-14,Apr-2021,2021,109/67
+NULL,F,0,1,8,0-18,Type II Diabetes,173/62,High,173,62,High,105.9kg,105.9,2022-07-20,Jul-2022,2022,109/67
+Emily Garcia,F,0,1,60,51-65,Asthma,179/82,High,179,82,High,91.6kg,91.6,2019-03-29,Mar-2019,2019,109/67
+Chris Gonzalez,M,1,0,NULL,NULL,Osteoarthritis,144/85,High,144,85,High,81.7kg,81.7,2022-07-02,Jul-2022,2022,109/67
+John Hernandez,M,1,0,6,0-18,Migraine,118/72,Normal,118,72,Low,98.4kg,98.4,2024-12-15,Dec-2024,2024,109/67
+Maria Davis,F,0,1,51,51-65,Influenza,134/109,Elevated,134,109,High,64.6kg,64.6,2021-06-26,Jun-2021,2021,109/68
+James Brown,M,1,0,92,66+,Asthma,138/90,Elevated,138,90,High,92.1kg,92.1,2021-05-13,May-2021,2021,109/67
+Susan Williams,F,0,1,24,19-35,Obesity,142/68,High,142,68,High,92.8kg,92.8,2021-11-22,Nov-2021,2021,109/67
+Patricia Jackson,F,0,1,6,0-18,Obesity,103/60,Normal,103,60,Low,95.5kg,95.5,NULL,NULL,NULL,108/67
+Brown Anna,F,0,1,23,19-35,Influenza,174/82,High,174,82,High,76.3kg,76.3,2020-08-02,Aug-2020,2020,109/67
+Susan Jones,F,0,1,45,36-50,Coronary Artery Disease,108/70,Normal,108,70,High,53.6kg,53.6,2023-04-23,Apr-2023,2023,109/67
+Lopez David,M,1,0,13,0-18,Anxiety Disorder,115/105,Normal,115,105,High,88.8kg,88.8,NULL,NULL,NULL,109/68
+Thomas Rodriguez,M,1,0,63,51-65,Asthma,146/79,High,146,79,High,80.4kg,80.4,2023-03-21,Mar-2023,2023,109/67
+John Miller,M,1,0,NULL,NULL,Coronary Artery Disease,0/0,Normal,0,0,High,65.3kg,65.3,2020-08-09,Aug-2020,2020,107/66
+Elizabeth Miller,F,0,1,59,51-65,Osteoarthritis,121/64,Normal,121,64,Low,57.0kg,57,2024-11-16,Nov-2024,2024,109/67
+Robert Hernandez,M,1,0,71,66+,Obesity,0/0,Normal,0,0,Low,100.0kg,100,2019-11-29,Nov-2019,2019,107/66
+Anderson Anna,M,1,0,67,66+,Anxiety Disorder,127/97,Normal,127,97,High,73.4kg,73.4,2021-09-01,Sep-2021,2021,109/67
+Sarah Johnson,F,0,1,34,19-35,Influenza,170/98,High,170,98,High,66.6kg,66.6,2019-05-06,May-2019,2019,109/67
+Linda Williams,M,1,0,1,0-18,Obesity,0/0,Normal,0,0,Low,129.7kg,129.7,2021-12-06,Dec-2021,2021,107/66
+Thomas Martinez,M,1,0,91,66+,Asthma,111/60,Normal,111,60,Low,0,0,NULL,NULL,NULL,109/67
+John Taylor,M,1,0,13,0-18,Asthma,160/76,High,160,76,High,58.5kg,58.5,2021-05-29,May-2021,2021,109/67
+Mike Anderson,M,1,0,33,19-35,Hypothyroid,123/69,Normal,123,69,Low,98.2kg,98.2,2023-09-07,Sep-2023,2023,109/67
+Anna Jones,M,1,0,33,19-35,Osteoarthritis,0/0,Normal,0,0,Low,85.4kg,85.4,NULL,NULL,NULL,107/66
+Charles Smith,M,1,0,33,19-35,Hypothyroid,152/82,High,152,82,High,62.7kg,62.7,2023-07-07,Jul-2023,2023,109/67
+Williams Jennifer,F,0,1,58,51-65,Obesity,140/70,High,140,70,High,87.0kg,87,2021-12-06,Dec-2021,2021,109/67
+Thomas William,F,0,1,18,0-18,Osteoarthritis,143/74,High,143,74,High,60.0kg,60,NULL,NULL,NULL,109/67
+Charles Anderson,M,1,0,48,36-50,Obesity,118/85,Normal,118,85,Medium,124.3kg,124.3,2022-12-27,Dec-2022,2022,109/67
+Mike Thomas,M,1,0,2,0-18,Type II Diabetes,0/0,Normal,0,0,Medium,93.4kg,93.4,2024-01-21,Jan-2024,2024,107/66
+Anna Martin,F,0,1,46,36-50,Osteoarthritis,133/97,Elevated,133,97,High,76.1kg,76.1,2024-04-29,Apr-2024,2024,109/67
+Gonzalez Mike,M,1,0,5,0-18,Type II Diabetes,0/0,Normal,0,0,Medium,73.6kg,73.6,2021-12-05,Dec-2021,2021,107/66
+Susan Smith,F,0,1,16,0-18,Migraine,176/81,High,176,81,High,0,0,NULL,NULL,NULL,109/67
+Susan Miller,F,0,1,24,19-35,NULL,156/64,High,156,64,High,112.6kg,112.6,2021-01-01,Jan-2021,2021,109/67
+David Gonzalez,m,1,0,75,66+,NULL,103/75,Normal,103,75,Low,0,0,2020-05-22,May-2020,2020,108/67
+Susan Lopez,M,1,0,60,51-65,Influenza,128/90,Normal,128,90,High,58.7kg,58.7,2019-04-05,Apr-2019,2019,109/67
+Williams Susan,M,1,0,60,51-65,Obesity,111/91,Normal,111,91,High,113.2kg,113.2,2022-05-27,May-2022,2022,109/67
+Robert Lopez,F,0,1,55,51-65,Type II Diabetes,144/63,High,144,63,High,0,0,2022-08-22,Aug-2022,2022,109/67
+Robert Johnson,F,0,1,38,36-50,Migraine,0/0,Normal,0,0,Low,62.2kg,62.2,2020-10-14,Oct-2020,2020,107/66
+Jane Garcia,M,1,0,48,36-50,Asthma,144/61,High,144,61,High,83.4kg,83.4,2022-10-23,Oct-2022,2022,109/67
+Jane Jackson,F,0,1,18,0-18,Asthma,118/66,Normal,118,66,Low,99.3kg,99.3,2023-03-06,Mar-2023,2023,109/67
+Emily Rodriguez,F,0,1,53,51-65,Asthma,0/0,Normal,0,0,Low,0,0,2020-10-20,Oct-2020,2020,107/66
+David Moore,F,0,1,34,19-35,Asthma,159/81,High,159,81,High,97.1kg,97.1,2021-03-10,Mar-2021,2021,109/67
+Elizabeth Martinez,F,0,1,50,36-50,Anxiety Disorder,0/0,Normal,0,0,Low,109.9kg,109.9,2024-02-21,Feb-2024,2024,107/66
+Elizabeth Johnson,F,0,1,52,51-65,Influenza,110/81,Normal,110,81,Low,105.6kg,105.6,2020-06-06,Jun-2020,2020,109/67
+Anna Miller,F,0,1,36,36-50,Migraine,139/83,Elevated,139,83,Medium,0,0,2024-04-09,Apr-2024,2024,109/67
+Garcia Maria,F,0,1,65,51-65,Migraine,113/85,Normal,113,85,Medium,78.5kg,78.5,2022-12-05,Dec-2022,2022,109/67
+John Davis,f,0,1,83,66+,Migraine,153/87,High,153,87,High,5kg,5,NULL,NULL,NULL,109/67
+Michael Miller,M,1,0,12,0-18,Coronary Artery Disease,128/93,Normal,128,93,High,5kg,5,2021-04-06,Apr-2021,2021,109/67
+Elizabeth Thomas,m,1,0,34,19-35,Migraine,0/0,Normal,0,0,Low,0,0,2019-10-27,Oct-2019,2019,107/66
+Jane Lopez,F,0,1,4,0-18,Hypertension,0/0,Normal,0,0,Medium,0,0,2020-01-08,Jan-2020,2020,107/66
+Smith Mike,M,1,0,9,0-18,Obesity,0/0,Normal,0,0,Low,52.6kg,52.6,NULL,NULL,NULL,107/66
+Smith Jane,F,0,1,14,0-18,Obesity,145/89,High,145,89,High,56.0kg,56,2019-10-10,Oct-2019,2019,109/67
+Thomas Jones,F,0,1,NULL,NULL,NULL,160/100,High,160,100,High,104.6kg,104.6,2024-09-01,Sep-2024,2024,109/67
+Linda Jones,F,0,1,25,19-35,Obesity,165/95,High,165,95,High,51.8kg,51.8,NULL,NULL,NULL,109/67
+Thomas Moore,m,1,0,25,19-35,Type II Diabetes,0/0,Normal,0,0,Medium,5kg,5,2024-09-28,Sep-2024,2024,107/66
+Jennifer Jackson,F,0,1,68,66+,Anxiety Disorder,114/93,Normal,114,93,High,54.3kg,54.3,2024-02-17,Feb-2024,2024,109/67
+Anna Thomas,F,0,1,60,51-65,Anxiety Disorder,148/103,High,148,103,High,0,0,2019-04-27,Apr-2019,2019,109/68
+Moore Thomas,M,1,0,10,0-18,Migraine,153/91,High,153,91,High,51.5kg,51.5,2022-03-22,Mar-2022,2022,109/67
+Jane Gonzalez,F,0,1,52,51-65,Hypertension,172/109,High,172,109,High,112.1kg,112.1,2023-03-21,Mar-2023,2023,109/68
+Michael Jackson,M,1,0,20,19-35,Hypertension,114/71,Normal,114,71,Medium,97.6kg,97.6,NULL,NULL,NULL,109/67
+Thomas Johnson,M,1,0,75,66+,Type II Diabetes,145/107,High,145,107,High,67.5kg,67.5,2023-02-20,Feb-2023,2023,109/68
+Susan Thomas,F,0,1,86,66+,Hypothyroid,0/0,Normal,0,0,Low,49.4kg,49.4,2019-09-04,Sep-2019,2019,107/66
+Sarah Taylor,F,0,1,25,19-35,Migraine,125/108,Normal,125,108,High,67.0kg,67,NULL,NULL,NULL,109/68
+Jane Johnson,F,0,1,8,0-18,Type II Diabetes,120/69,Normal,120,69,Medium,89.1kg,89.1,NULL,NULL,NULL,109/67
+Linda Wilson,F,0,1,50,36-50,Hypertension,123/92,Normal,123,92,High,70.2kg,70.2,2019-04-01,Apr-2019,2019,109/67
+David Williams,M,1,0,33,19-35,NULL,0/0,Normal,0,0,Low,51.8kg,51.8,2022-06-28,Jun-2022,2022,107/66
+Martin Jennifer,f,0,1,61,51-65,Asthma,175/86,High,175,86,High,111.1kg,111.1,2024-01-29,Jan-2024,2024,109/67
+Thomas Garcia,M,1,0,26,19-35,Hypertension,176/84,High,176,84,High,0,0,2020-10-18,Oct-2020,2020,109/67
+Chris Thomas,M,1,0,67,66+,Coronary Artery Disease,119/62,Normal,119,62,High,116.6kg,116.6,2019-06-06,Jun-2019,2019,109/67
+Jennifer Moore,F,0,1,71,66+,Type II Diabetes,0/0,Normal,0,0,Medium,93.4kg,93.4,NULL,NULL,NULL,107/66
+Gonzalez Robert,M,1,0,8,0-18,Asthma,97/100,Normal,97,100,High,0,0,2021-06-29,Jun-2021,2021,108/67
+John Williams,M,1,0,63,51-65,Asthma,103/82,Normal,103,82,Low,66.4kg,66.4,2022-08-19,Aug-2022,2022,108/67
+David Rodriguez,M,1,0,79,66+,NULL,115/100,Normal,115,100,High,102.8kg,102.8,2023-03-24,Mar-2023,2023,109/67
+Rodriguez Linda,F,0,1,2,0-18,Hypothyroid,126/84,Normal,126,84,Low,77.0kg,77,NULL,NULL,NULL,109/67
+William Johnson,M,1,0,44,36-50,Type II Diabetes,141/99,High,141,99,High,0,0,2023-03-22,Mar-2023,2023,109/67
+Linda Lopez,F,0,1,20,19-35,Anxiety Disorder,154/110,High,154,110,High,0,0,2019-05-05,May-2019,2019,109/68
+Sarah Moore,M,1,0,40,36-50,NULL,142/94,High,142,94,High,61.4kg,61.4,NULL,NULL,NULL,109/67
+Jennifer Anderson,F,0,1,87,66+,Osteoarthritis,130/96,Elevated,130,96,High,66.6kg,66.6,2021-12-02,Dec-2021,2021,109/67

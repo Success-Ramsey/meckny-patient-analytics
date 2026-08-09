@@ -24,8 +24,8 @@ The dashboard is built for a hospital operations/clinical audience and answers t
 
 ## Data Pipeline
 
-1. **Raw data** (`data/raw_messy_data.csv`) — original export containing inconsistent formatting, blank/duplicate fields, and unstandardized categorical values.
-2. **Cleaning** (`sql/cleaning_queries.sql`) — SQL queries used to deduplicate records, standardize categorical fields (gender, diagnosis, BP category), and engineer derived columns.
+1. **Raw data** (`data/messy_data.csv`) — original export containing inconsistent formatting, blank/duplicate fields, and unstandardized categorical values.
+2. **Cleaning** (`sql/meckny_patient_db.sql`) — SQL queries used to deduplicate records, standardize categorical fields (gender, diagnosis, BP category), and engineer derived columns.
 3. **Cleaned dataset** (`data/cleaned_data.csv`) — final 18-column table imported into Excel:
 
    `Patient ID, Full Name, Gender, Male Count, Female Count, Age, Age Group, Diagnosis, Blood Pressure, BP Category, Systolic, Diastolic, Risk Tier, Weight (kg), Weight, Admission Date, Month-Year, Admission Year`
@@ -73,24 +73,24 @@ A VBA-driven panel lets a user step through patients via a navigation button. Se
 meckny-hospital-dashboard/
 ├── README.md
 ├── data/
-│   ├── raw_messy_data.csv
+│   ├── messy_data.csv
 │   └── cleaned_data.csv
 ├── sql/
-│   └── cleaning_queries.sql
+│   └── meckny_patient_db.sql
 ├── dashboard/
-│   └── Meckny_Hospital_Dashboard.xlsm
+│   └── meckny_patient_db.xlsm
 ├── screenshots/
 │   ├── dashboard_overview.png
-│   ├── table_view_1.png
-│   ├── table_view_2.png
-│   ├── table_view_3.png
+│   ├── patient_table_1.png
+│   ├── patient_table_2.png
+│   ├── patient_table_3.png
 │   └── patient_panel.png
 └── LICENSE
 ```
 
 ## How to Use
 
-1. Download `dashboard/Meckny_Hospital_Dashboard.xlsm`.
+1. Download `dashboard/meckny_patient_db.xlsm`.
 2. Open in Excel and **enable macros** when prompted (required for the interactive patient panel and organ-status visualization).
 3. Use the navigation button on the patient panel to step through individual patient records.
 
